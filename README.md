@@ -45,7 +45,7 @@ Before running the project, make sure you have the following installed on your m
 2. Clone your fork
 => Clone your fork to your local machine using the following command:
 ```bash
-git clone https://github.com/yourusername/iot_device_monitor.git
+git clone https://github.com/yourusername/IOT_simulation.git
 ```
 3. Create a new branch
 => Create a new branch for your changes. It's recommended to use descriptive names for the branch, e.g., feature/turn-on-light.
