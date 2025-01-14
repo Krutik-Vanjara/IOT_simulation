@@ -68,16 +68,16 @@ Push your changes to your fork on GitHub:
 ```bash
 git push origin feature/your-feature
 ```
-7. Open a Pull Request
-Go to the Pull Requests section of the original repository and click New Pull Request.
-Select the branch from your fork and compare it with the master branch of the original repository.
-Provide a detailed description of your changes and submit the pull request.
-Features
-Smart Light: Turn ON/OFF, adjust brightness, and track energy consumption.
-Thermostat: Set and read temperature.
-Security Camera: Monitor motion detection and camera status.
+7. Open a Pull Request:
+   
+- Go to the Pull Requests section of the original repository and click New Pull Request.
+- Select the branch from your fork and compare it with the master branch of the original repository.
+- Provide a detailed description of your changes and submit the pull request.
+# Features
+- Smart Light: Turn ON/OFF, adjust brightness, and track energy consumption.
+- Thermostat: Set and read temperature.
+- Security Camera: Monitor motion detection and camera status.
 In the future, we plan to add more features, such as:
-
-Data Logging: Keep track of the historical data for each device.
-User Authentication: Allow different users to control devices with various permission levels.
-Integration with Actual IoT Devices: Eventually, we may extend the project to interface with real-world IoT devices.
+- Data Logging: Keep track of the historical data for each device.
+- User Authentication: Allow different users to control devices with various permission levels.
+- Integration with Actual IoT Devices: Eventually, we may extend the project to interface with real-world IoT devices.
