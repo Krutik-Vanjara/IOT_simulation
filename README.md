@@ -37,26 +37,26 @@ Before running the project, make sure you have the following installed on your m
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/iot_device_monitor.git
+   git clone https://github.com/yourusername/IOT_simulation.git
 ## How to Contribute
-We welcome contributions from the community! Here's how you can contribute to this project:
+=> We welcome contributions from the community! Here's how you can contribute to this project:
 1. Fork the repository
-Click the Fork button in the upper-right corner of the repository page on GitHub to create your own copy of the repository.
+=> Click the Fork button in the upper-right corner of the repository page on GitHub to create your own copy of the repository.
 2. Clone your fork
-Clone your fork to your local machine using the following command:
+=> Clone your fork to your local machine using the following command:
 ```bash
 git clone https://github.com/yourusername/iot_device_monitor.git
 ```
 3. Create a new branch
-Create a new branch for your changes. It's recommended to use descriptive names for the branch, e.g., feature/turn-on-light.
+=> Create a new branch for your changes. It's recommended to use descriptive names for the branch, e.g., feature/turn-on-light.
 ```bash
 
 git checkout -b feature/your-feature
 ```
 4. Make changes
-Now, make the changes you want to contribute. You can add new devices, update functionality, or improve documentation.
+=> Now, make the changes you want to contribute. You can add new devices, update functionality, or improve documentation.
 5. Commit your changes
-Commit your changes with a descriptive commit message:
+=> Commit your changes with a descriptive commit message:
 ```bash
 git add .
 ```
@@ -64,12 +64,11 @@ git add .
 git commit -m "Added new feature for controlling smart light brightness"
 ```
 6. Push to your fork
-Push your changes to your fork on GitHub:
+=> Push your changes to your fork on GitHub:
 ```bash
 git push origin feature/your-feature
 ```
-7. Open a Pull Request:
-   
+7. Open a Pull Request:  
 - Go to the Pull Requests section of the original repository and click New Pull Request.
 - Select the branch from your fork and compare it with the master branch of the original repository.
 - Provide a detailed description of your changes and submit the pull request.
@@ -78,7 +77,7 @@ git push origin feature/your-feature
 - Thermostat: Set and read temperature.
 - Security Camera: Monitor motion detection and camera status.
 # In the future
-we plan to add more features, such as:
+=> we plan to add more features, such as:
 - Data Logging: Keep track of the historical data for each device.
 - User Authentication: Allow different users to control devices with various permission levels.
 - Integration with Actual IoT Devices: Eventually, we may extend the project to interface with real-world IoT devices.
