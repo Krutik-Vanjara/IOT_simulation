@@ -74,8 +74,7 @@ git push origin feature/your-feature
 - Provide a detailed description of your changes and submit the pull request.
 # Features
 - Smart Light: Turn ON/OFF, adjust brightness, and track energy consumption.
-<!-- Thermostat: Set and read temperature.
-<!-- Security Camera: Monitor motion detection and camera status.
+
 # In the future
 => we plan to add more features, such as:
 - Data Logging: Keep track of the historical data for each device.
