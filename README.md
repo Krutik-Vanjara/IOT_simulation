@@ -84,8 +84,12 @@ git push origin feature/your-feature
 
 2. Thermostat (devices/thermostat.py)
 - Attributes:
-- current_temperature: Current temperature
-- target_temperature: Desired temperature
+        status (str): The ON/OFF status of the thermostat.
+        current_temperature (int): The current temperature measured by the thermostat.
+        target_temperature (int): The desired target temperature set by the user.
+- Methods:
+        toggle_status(): Toggles the ON/OFF state of the thermostat.
+        set_temperature(target): Sets the target temperature.
 - Actions:
         Set target temperature
         View current temperature
