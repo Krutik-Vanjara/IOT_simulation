@@ -73,7 +73,8 @@ git push origin feature/your-feature
 - Select the branch from your fork and compare it with the master branch of the original repository.
 - Provide a detailed description of your changes and submit the pull request.
 # Features
-- Smart Light: Turn ON/OFF, adjust brightness, and track energy consumption.
+- Smart Light: Turn ON/OFF, adjust brightness, and track energy consumption./
+  
 To add a new feature, create a separate branch, commit your changes, and then generate a pull request.
 
 # In the future
